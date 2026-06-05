@@ -1,4 +1,4 @@
-### Hi, I'm John Lawniczak. I ship EVERY DAY.
+### Hi, I'm John Lawniczak.
 
 ----
 
