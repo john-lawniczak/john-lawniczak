@@ -2,9 +2,9 @@
 
 ----
 
-Blockchain Security Engineer securing smart contracts, DeFi protocols, and wallet UX.
+Sr. Security Engineer securing DLT, DeFi protocols, and wallet UX.
 
-`Solidity` · `Rust` · `Smart Contract Security` · `DeFi`
+`Distributed Systems` · `Rust` · `Smart Contract Security` · `Machine Learning`
 
 - Founder of [ZeroDay Dev](https://zerodaydev.dev/)
     - [App Store (iOS)](https://apps.apple.com/app/id6760129673)
